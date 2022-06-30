@@ -1,7 +1,5 @@
 package demo;
 
-public class EmplyoeeWage {
-
 			
 			
 	public class EmployeeWage {
